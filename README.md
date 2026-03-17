@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Electronic Information and Computer Network**
 
-- 👯 I'm looking to collaborate on **Open-source a brand-new Network security system**
+- 👯 I'm looking to collaborate on **a brand-new Network security system**
 
 - 🤝 I'm looking for help with **Embedded System and Computer Network**
 
