@@ -1,4 +1,4 @@
-# Hi 👋, I'm Li Ge
+# Hi 👋, I'm Ge Li 
 
 ### An eternal seeker of knowledge.
 
